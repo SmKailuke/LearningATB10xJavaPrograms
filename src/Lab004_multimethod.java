@@ -3,5 +3,8 @@ public class Lab004_multimethod {
         System.out.println("Hi");
         System.out.println("Software");
         System.out.println("Tester");
-    }}
+    }
 
+    //private static void main(String[]) { we can use multiple main method
+
+    }
